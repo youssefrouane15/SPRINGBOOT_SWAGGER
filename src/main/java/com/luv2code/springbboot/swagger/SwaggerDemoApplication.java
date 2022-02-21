@@ -1,13 +1,13 @@
-package com.luv2code.springbboot.cruddemo;
+package com.luv2code.springbboot.swagger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CruddemoApplication {
+public class SwaggerDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CruddemoApplication.class, args);
+		SpringApplication.run(SwaggerDemoApplication.class, args);
 	}
 
 }
